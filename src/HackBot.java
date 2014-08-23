@@ -16,7 +16,7 @@ public class HackBot {
         // The channel which the bot will join.
         String channel = "#botbotbot";
         
-        // Coeqwdnnect directly to the IRC server.
+        // Connect directly to the IRC server.
         Socket socket = new Socket(server, 6667);
         BufferedWriter writer = new BufferedWriter(
                 new OutputStreamWriter(socket.getOutputStream( )));
