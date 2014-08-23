@@ -1,0 +1,4 @@
+ircbot
+======
+
+Experimenting with ircbots.
